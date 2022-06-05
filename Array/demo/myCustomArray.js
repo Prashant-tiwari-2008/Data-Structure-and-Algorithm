@@ -2,7 +2,6 @@ class MyCustomArray {
     constructor() {
         this.length = 0;
         this.data = {};
-        console.log(this.length)
     }
 
     get(index) {
